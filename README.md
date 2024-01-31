@@ -8,10 +8,10 @@ I'm a Front End Developer, Software Developer, and Technical Writer who is curre
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at DevCareer and AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
-- 🌱 I’m currently learning JavaScript, Reactjs, NextJs and C# .NET framework.
+- 🌱 I’m currently learning JavaScript, Reactjs, NextJs, React Native and C# .NET framework.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front End Developer, or Software Developer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing mailtodojiemma@gmail.com.
+- 📫 You can [view my resume](https://docs.google.com/document/d/1y76n9S92omQUUH46hdEus9PbT0IWvv9JnlPdV7ic3Nw/edit?usp=sharing) and contact me by emailing mailtodojiemma@gmail.com.
 
 ---
 
