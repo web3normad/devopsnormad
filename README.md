@@ -10,10 +10,10 @@ I'm a Blockchain Developer, and Technical Writer who is currently looking for op
 - 💡 About Me: Alumnus of Blockfuse Labs and currently a Blockchain Engineering Intern.
 - 🌱 My current stacks include Reactjs, NextJs, and Solidity.
 - 😊 I’m currently working on open source projects, hackathons, and personal projects within the blockchain space.
-- 💼 Job interests: Smartcontract Developer, Web3 Front End Developer and Blockchain Researcher.
+- 💼 Job interests: Smart contract Developer, Web3 Front End Developer and Blockchain Researcher.
 - 📫 You can contact me by emailing mailtodojiemma@gmail.com.
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsnormad&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devopsnormad&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsnormad&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3normad&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
 | ------------- | ------------- |
