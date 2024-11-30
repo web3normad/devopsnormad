@@ -15,5 +15,5 @@ I'm a Blockchain Developer, and Technical Writer who is currently looking for op
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devopsnormad&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3normad&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=web3normad&show_icons=true&include_all_commits=true&hide_border=true" alt="Emmanuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=web3normad&langs_count=8&layout=compact&hide_border=true" alt="Emmanuel's GitHub stats" /> |
 | ------------- | ------------- |
